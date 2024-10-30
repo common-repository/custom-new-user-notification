@@ -1,0 +1,18 @@
+/*
+* Options styling
+*/
+
+.cnun-shortcode { color: #2ea2cc; }
+.cnun-html-notification-wrap .wp-editor-wrap { width: 80%; }
+.cnun-mail-subject { width: 40%; }
+.cnun-mail-sender { width: 30%; }
+.form-table .cnun-note { color: #FF5A00; font-size: 12px; margin-top: 20px; }
+
+.cnun-sepeartion { border-bottom: 1px solid #ddd; height: 40px; }
+
+@media only screen and (max-width: 959px) {
+
+    .cnun-html-notification-wrap .wp-editor-wrap { width: 100%; }
+
+}
+
